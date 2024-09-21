@@ -11,7 +11,8 @@ Instruções para solucionar os desafios:
 * Ganha aquele que obtiver mais pontos ao final. Em caso de empate, será utilizado o critério de tempo para definir o vencedor.
 
 
-* Desafios de baixa complexidade:
+Desafios de baixa complexidade:
+
 1º Calculadora básica:
 Desenvolva uma calculadora que realize as 4 Operações Matemáticas Básicas (Adição, Subtração, Multiplicação e Divisão), e print o resultado final.
 Requisitos:
@@ -29,7 +30,8 @@ Extra: Ao realizar a conversão, a taxa de câmbio da moeda deve ser printada ju
 
 
 
-* Desafios de Média Complexidade:
+Desafios de Média Complexidade:
+
 1º Sistema de Login
 Desenvolver uma aplicação que permita o registro de um usuário, utilizando informações como Nome, Email, CPF, Nome de Usuário e senha. Obtendo essas informações, deve ser possível realizar login.
 Requisitos:
@@ -49,7 +51,8 @@ Extra 2: Criar um Banco de Dados SQL que contenha pelo menos 5 produtos cadastra
 
 
 
-* Desafios de Alta Complexidade:
+Desafios de Alta Complexidade:
+
 1º Sistema Bancário
 Uma aplicação que realiza o cadastro de clientes e suas informações, como Nome, Endereço, CPF, RG, Data de Nascimento, Agência e senha.
 Deve ser possível realizar o cadastro de cartões com 6 Números e uma senha única, além de mostrar o saldo atual e dar opções de sacar e depositar.
