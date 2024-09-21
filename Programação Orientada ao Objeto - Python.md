@@ -1,26 +1,27 @@
-﻿O Que é Programação Orientada a Objetos (POO)?
+﻿* O Que é Programação Orientada a Objetos (POO)?
 
 A Programação Orientada a Objetos é um paradigma que utiliza "objetos" para representar dados e comportamentos. Os principais conceitos da POO incluem:
 
-Classes: Moldes que definem a estrutura e o comportamento de objetos, encapsulando dados e métodos.
+* Classes: Moldes que definem a estrutura e o comportamento de objetos, encapsulando dados e métodos.
 
-Objetos: Instâncias de classes que possuem estado (atributos) e comportamento (métodos).
+* Objetos: Instâncias de classes que possuem estado (atributos) e comportamento (métodos).
 
-Encapsulamento: Protege o estado interno de um objeto, controlando o acesso aos seus atributos e métodos.
+* Encapsulamento: Protege o estado interno de um objeto, controlando o acesso aos seus atributos e métodos.
 
-Herança: Permite que uma classe herde características de outra, promovendo a reutilização de código.
+* Herança: Permite que uma classe herde características de outra, promovendo a reutilização de código.
 
-Polimorfismo: Permite que objetos de diferentes classes sejam tratados como objetos de uma classe comum.
+* Polimorfismo: Permite que objetos de diferentes classes sejam tratados como objetos de uma classe comum.
 
-Estrutura de Classes em Python
 
-Definindo uma Classe
+
+* Estrutura de Classes em Python
+
+* Definindo uma Classe
 
 A definição de uma classe em Python envolve a declaração da classe, seus atributos e métodos.
 
 python
 
-Copiar código
 
 class NomeDaClasse:
 
@@ -36,13 +37,12 @@ def metodo(self):
 
 pass
 
-Exemplo Prático
+* Exemplo Prático
 
 Vamos considerar um exemplo de uma classe Carro.
 
 python
 
-Copiar código
 
 class Carro:
 
@@ -66,13 +66,12 @@ self.ligado = False
 
 print(f"{self.modelo} está desligado.")
 
-Usando a Classe
+* Usando a Classe
 
 Você pode criar instâncias da classe e usar seus métodos:
 
 python
 
-Copiar código
 
 carro1 = Carro("Fusca", "azul")
 
@@ -84,15 +83,14 @@ carro2.ligar()  # Exibe "Civic está ligado."
 
 carro1.desligar()  # Exibe "Fusca está desligado."
 
-Encapsulamento
+* Encapsulamento
 
 O encapsulamento em Python é realizado usando convenções de nomenclatura. Por exemplo, atributos prefixados com um underscore (\_) indicam que devem ser tratados como privados.
 
-Exemplo de Encapsulamento
+* Exemplo de Encapsulamento
 
 python
 
-Copiar código
 
 class ContaBancaria:
 
@@ -108,13 +106,12 @@ def mostrar\_saldo(self):
 
 print(f"Saldo: {self.\_saldo}")
 
-Herança
+* Herança
 
 A herança permite que uma nova classe herde atributos e métodos de uma classe existente, facilitando a reutilização de código.
 
 python
 
-Copiar código
 
 class Veiculo:
 
@@ -138,13 +135,14 @@ def mostrar\_cor(self):
 
 print(f"Cor do carro: {self.cor}")
 
-Polimorfismo
+
+
+* Polimorfismo
 
 O polimorfismo permite que você trate diferentes tipos de objetos de forma uniforme. Em Python, isso é frequentemente feito através de métodos que têm o mesmo nome, mas comportamentos diferentes.
 
 python
 
-Copiar código
 
 class Ave:
 
