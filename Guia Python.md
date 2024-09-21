@@ -40,7 +40,7 @@ Estrutura Básica
 
 python
 
-Copiar código
+
 
 def nome\_da\_funcao(parametros):
 
@@ -62,7 +62,7 @@ Exemplo de Função
 
 python
 
-Copiar código
+
 
 def soma(a, b):
 
@@ -84,7 +84,7 @@ Estrutura Básica
 
 python
 
-Copiar código
+
 
 class NomeDaClasse:
 
@@ -116,7 +116,7 @@ Exemplo de Classe
 
 python
 
-Copiar código
+
 
 class Pessoa:
 
