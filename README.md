@@ -11,6 +11,7 @@ Instruções para solucionar os desafios:
 * Ganha aquele que obtiver mais pontos ao final. Em caso de empate, será utilizado o critério de tempo para definir o vencedor.
 
 
+
 Desafios de baixa complexidade:
 
 1º Calculadora básica:
@@ -29,6 +30,7 @@ Requisitos:
 * Programar encerrar sozinho ao concluir a conversão.
   
 Extra: Ao realizar a conversão, a taxa de câmbio da moeda deve ser printada junto.
+
 
 
 
@@ -52,6 +54,8 @@ Requisitos:
   
 Extra 1: Printar uma Nota Fiscal, que contenha o valor de cada item, valor final, valor pago e o troco.
 Extra 2: Criar um Banco de Dados SQL que contenha pelo menos 5 produtos cadastrados.
+
+
 
 
 
