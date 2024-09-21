@@ -18,6 +18,7 @@ Desenvolva uma calculadora que realize as 4 Operações Matemáticas Básicas (A
 Requisitos:
 * Mostrar o resultado correto;
 * Ser capaz de realizar o cálculo de, no mínimo, 3 valores.
+  
 Extra: A Calculadora deve desligar apenas quando inserido uma variável específica.
 
 
@@ -26,6 +27,7 @@ Desenvolver uma aplicação que realiza conversões entre moedas (Dólar, Euro, 
 Requisitos:
 * Realizar a conversão corretamente;
 * Programar encerrar sozinho ao concluir a conversão.
+  
 Extra: Ao realizar a conversão, a taxa de câmbio da moeda deve ser printada junto.
 
 
@@ -37,6 +39,7 @@ Desenvolver uma aplicação que permita o registro de um usuário, utilizando in
 Requisitos:
 * O usuário pode realizar o login utilizando CPF, Email ou Nome de Usuário.
 * Cada dado deve ser armazenado individualmente.
+  
 Extra 1: Possibilidade de registrar mais de um usuário.
 Extra 2: O registro dessas informações fica salvo em um Banco de Dados SQL.
 
@@ -46,6 +49,7 @@ Desenvolver um sistema de Caixa de Mercado, onde é realizado operações de ven
 Requisitos:
 * Deve fazer, no mínimo, o cálculo de 5 Produtos.
 * Deve realizar os cálculos e operações corretamente.
+  
 Extra 1: Printar uma Nota Fiscal, que contenha o valor de cada item, valor final, valor pago e o troco.
 Extra 2: Criar um Banco de Dados SQL que contenha pelo menos 5 produtos cadastrados.
 
@@ -60,6 +64,7 @@ Requisitos:
 * Deve realizar corretamente o cadastro do usuário, e criar uma opção de acesso a esses dados.
 * Deve fazer o novo cálculo do saldo atual sempre que as funções de sacar e depositar forem utilizadas.
 * Deve ser possível visualizar a senha e os cartões cadastrados pela pessoa.
+  
 Extra 1: Criar um Banco de Dados SQL que contenha informações de diversos clientes. O Registro dessas pessoas no Banco de Dados deve ser feito pelo terminal.
 Extra 2: Deve ser possível desativar e excluir as informações do cliente.
 
@@ -70,5 +75,6 @@ As informações registradas podem ser consultadas a qualquer momento, mas para 
 Requisitos:
 * Realizar a criação e consulta de perfis corretamente.
 * Alterações só podem ser feitas mediante a apresentação correta do usuário e senha.
+
 Extra 1: Banco de Dados SQL registrando perfis criados pelo terminal.
 Extra 2: Criar no menu inicial, uma opção de login e registro do usuário e senha do administrador, mas na primeira vez que o programa funciona, deve ser exigido o cadastro do administrador.
