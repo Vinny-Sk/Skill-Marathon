@@ -32,7 +32,7 @@ EX: while x == 5:
 
 `	`print ("Hello World"), enquanto x for igual a 5, ficará repetindo Hello World na tela
 
-Função def
+* Função def
 
 A palavra-chave def é usada para definir funções em Python. Uma função é um bloco de código reutilizável que pode ser chamado em qualquer lugar do programa. Vamos ver como funciona:
 
@@ -76,7 +76,7 @@ resultado = soma(3, 5)  # resultado será 8
 
 print(resultado)  # Exibe 8
 
-Classe class
+* Classe class
 
 A palavra-chave class é usada para definir classes em Python. Classes são a base da programação orientada a objetos e permitem criar novos tipos de dados que podem conter atributos (variáveis) e métodos (funções).
 
